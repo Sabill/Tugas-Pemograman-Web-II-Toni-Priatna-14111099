@@ -24,18 +24,18 @@
 		<table class="table table-nobordered">
 			<thead>
 				<tr align="center">
-					<td>Nama</td>
-					<td>Toni Priatna</td>
+					<td><?php echo="Nama"?></td>
+					<td><?php echo="Toni Priatna"?></td>
 				</tr>
 			</thead>
 			<tbody>
 				<tr align="center">
-					<td>NIM</td>
-					<td>14 111 099</td>
+					<td><?php echo="NIM"?></td>
+					<td><?php echo="14 111 099"?></td>
 				</tr>
 				<tr align="center">
-					<td>Kelas</td>
-					<td>TIF RM 14</td>
+					<td><?php echo="Kelas"?></td>
+					<td><?php echo="TIF RM 14"?></td>
 				</tr>
 			</tbody>
 		</table>
